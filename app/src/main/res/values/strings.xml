@@ -9,18 +9,18 @@
     <string name="incorrect_toast">Wrong!</string>
     <string name="correct_toast">You got it!</string>
 
-    <string name="question_1">Valentine\'s day is banned in Saudi Arabia.</string>
-    <string name="question_2">A slug\'s blood is green.</string>
-    <string name="question_3">Approximately one quarter of human bones are in the feet.</string>
-    <string name="question_4">The total surface area of two human lungs is approximately 70 square metres.</string>
-    <string name="question_5">In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.</string>
-    <string name="question_6">In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.</string>
-    <string name="question_7">It is illegal to pee in the Ocean in Portugal.</string>
-    <string name="question_8">You can lead a cow down stairs but not up stairs.</string>
-    <string name="question_9">Google was originally called \"Backrub\".</string>
-    <string name="question_10">Buzz Aldrin\'s mother\'s maiden name was \"Moon\".</string>
-    <string name="question_11">The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</string>
-    <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
-    <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+    <string name="question_1">The Republic of India is the largest country in South Asia.</string>
+    <string name="question_2">India is the second most populous democracy in the world.</string>
+    <string name="question_3">Mumbai is the capital city of India.</string>
+    <string name="question_4">India is surrounded by Indian Ocean in the south.</string>
+    <string name="question_5">India shares borders with 6 countries including Indonesia.</string>
+    <string name="question_6">India is a republic consisting of 28 states and seven union territories with a two party system of democracy.</string>
+    <string name="question_7">India has the world’s twelfth largest economy.</string>
+    <string name="question_8">Poverty, illiteracy and malnutrition have mostly been eradicated due to  economic reforms since 1991.</string>
+    <string name="question_9">Four major world religions, Hinduism, Buddhism, Jainism and Sikhism originated in India.</string>
+    <string name="question_10">English is one of the official languages of the country since it is a "lingua franca".</string>
+    <string name="question_11">India has been admired for its commercial and cultural wealth for much of its long history.</string>
+    <string name="question_12">The United Kingdom together with other countries established trading posts in India from the 15th century.</string>
+    <string name="question_13">By 1856, most of India was under the control of The British East India Company.</string>
 
 </resources>
